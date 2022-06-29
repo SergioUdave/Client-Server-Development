@@ -1,2 +1,2 @@
 # About
-SNHU CS340 course focused on using **MongoDB** and **Python** (currently enrolled)
+SNHU CS340 course focused on making a web application using **MongoDB** and **Python**
